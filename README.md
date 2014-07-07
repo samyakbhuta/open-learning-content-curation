@@ -2,6 +2,11 @@
 
 Place to list and curate all learning content available with liberal/open copyright license.
 
+#### Resources
+
+Some resources which can get you started quickly
+
+* [Khan Academy on Stick](http://www.mujica.org/khan/)
 
 #### Item listing
 
